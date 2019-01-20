@@ -1,0 +1,36 @@
+// rem 
+
+html {
+    font-size: 62.5%;
+}
+body {
+    background: $dark-blue;
+    font-family: Lato, Helvetica, Arial;
+    font-size: 1.6rem;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:disabled{
+    cursor: default;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+h3{
+    margin: 0;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.white {
+    color: white;
+}

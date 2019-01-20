@@ -1,0 +1,2 @@
+Stateless component is used for component that is used to representing the information, not to managing complex state 
+Stateless component is faster and more on the target with represnting the data than state component 

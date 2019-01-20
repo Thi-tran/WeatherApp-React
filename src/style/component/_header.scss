@@ -1,0 +1,20 @@
+.header{
+    background: $off_black;
+    color: white;
+    margin-bottom: 4.8rem;
+    padding: $m-size 0;
+    width: 100%;
+}
+
+// Block Element modifier
+.header__title {
+    font-size: $xl-size;
+    margin: 0;
+}
+
+.header__subtitle {
+    color: $off_white;
+    font-size: $l-size;
+    font-weight: 500;
+    margin: 0;
+}
